@@ -1,0 +1,6 @@
+.svelte-kit
+build
+package
+pnpm-lock.yaml
+src-tauri
+static
